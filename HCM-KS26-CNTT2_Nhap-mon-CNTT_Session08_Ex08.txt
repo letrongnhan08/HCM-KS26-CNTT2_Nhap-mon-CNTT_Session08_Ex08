@@ -1,0 +1,24 @@
+Phần 1: Điền khuyết
+Vị trí 1 (Tiêu đề chính - Heading H1):
+
+Cú pháp điền: #
+
+Giải thích: Heading H1 được biểu diễn bằng một dấu thăng kèm dấu cách (# ).
+
+Vị trí 2 & 3 (Khởi đầu và kết thúc Code Block):
+
+Cú pháp điền: ``` (ba dấu huyền/backticks ở cả hai đầu)
+
+Giải thích: Cú pháp mở và đóng một khối mã (code block) trong Markdown sử dụng ba dấu huyền (```). Dòng đầu có thể kèm tên ngôn ngữ (ví dụ: ````bash`).
+
+Vị trí 4, 5, 6 (Task List):
+
+Cú pháp điền: - (hoặc *)
+
+Giải thích: Danh sách công việc (Task List) trong Markdown được định dạng bằng dấu gạch ngang (hoặc dấu hoa thị) theo cấu trúc - [x] (đã xong) và - [ ] (chưa xong).
+
+Vị trí 7, 8, 9 (Hàng phân cách bảng):
+
+Cú pháp điền: ---|---|--- (hoặc :---|:---|:---)
+
+Giải thích: Hàng phân cách giữa tiêu đề bảng và nội dung các hàng trong bảng Markdown bắt buộc phải sử dụng các dấu gạch ngang (---), có thể kết hợp dấu hai chấm (:) để căn lề.
